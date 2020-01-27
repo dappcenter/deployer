@@ -6,9 +6,6 @@
     "Alex Barnsley <alex@ark.io>"
   ],
   "license": "MIT",
-  "bin": {
-    "ark:deployer": "./bin/deployer"
-  },
   "scripts": {
     "start": "./bin/deployer"
   },
